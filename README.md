@@ -1,6 +1,6 @@
-# Project Title
+# == / ++/ Robot operator overloading 
 
-One Paragraph of project description goes here
+This program compare two robot moving in a space of 10*10 using ++ overloading and comparing until it find 3 coins in the space and stop.
 
 ## Getting Started
 

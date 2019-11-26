@@ -1,4 +1,4 @@
-
+// create by @Abdoul-hanane Gbadamassi on 11/26/19
 #include "myRobot.h"
 void myRobot:: setRobot (int a, int b)
 {
